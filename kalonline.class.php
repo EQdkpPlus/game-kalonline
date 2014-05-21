@@ -83,6 +83,10 @@ if(!class_exists('kalonline')) {
 			#}
 			return $info;
 		}
+		
+		protected function load_filters($langs){
+			return array();
+		}
 	}
 }
 ?>
