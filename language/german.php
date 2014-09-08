@@ -39,14 +39,20 @@ $german_array = array(
 		5 => array(1, 4)
 	),
 	'lang' => array(
-		'kalonline' => 'KalOnline',
+		'kalonline'					=> 'KalOnline',
 		
 		// Roles
-		'role1'			=> 'Heiler',
-		'role2'			=> 'Tank',
-		'role3'			=> 'Angreifer',
-		'role4'			=> 'Debuffer',
-		'role5'			=> 'Damage Dealer',
+		'role1'						=> 'Heiler',
+		'role2'						=> 'Tank',
+		'role3'						=> 'Angreifer',
+		'role4'						=> 'Debuffer',
+		'role5'						=> 'Damage Dealer',
+
+		'uc_race'					=> 'Rasse',
+		'uc_class'					=> 'Klasse',
+
+		// Admin Settings
+		'core_sett_fs_gamesettings'	=> 'KalOnline Einstellungen',
 	),
 );
 ?>
