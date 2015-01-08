@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('kalonline')) {
 	class kalonline extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '0.2';
+		public $version				= '1.0.0';
 		protected $this_game		= 'kalonline';
 		protected $types			= array('classes', 'races');
 		public $icons				= array('classes', 'classes_big');
